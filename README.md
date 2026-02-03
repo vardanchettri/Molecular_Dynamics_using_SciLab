@@ -1,0 +1,2 @@
+# Molecular_Dynamics_using_SciLab
+Doing molecular dynamics including velocity verlet __Periodic Boundary Conditions___LJ potential
