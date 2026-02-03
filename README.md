@@ -1,2 +1,3 @@
 # Molecular_Dynamics_using_SciLab
-Doing molecular dynamics including velocity verlet __Periodic Boundary Conditions___LJ potential
+Doing molecular dynamics 
+It includes 1) velocity verlet __2)Periodic Boundary Conditions___ 3) LJ potential
