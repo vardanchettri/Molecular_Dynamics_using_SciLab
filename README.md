@@ -26,5 +26,11 @@ This project implements a simple **Molecular Dynamics (MD) simulation** in **Sci
 1. Open Scilab.
 2. Load the main MD script:  
 
-```scilab
-exec('molecular_dynamics.sci');
+
+Run the Molecular Dynamics simulation
+```
+exec('molecular_dynamics.sci')
+```
+
+**If you find this useful, you can support me with a coffee ☕**
+
